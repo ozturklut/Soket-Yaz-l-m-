@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XServer", "XServer\XServer.csproj", "{C7BACAE6-60D6-422E-8ABA-BF48767D0AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XClient", "XClient\XClient.csproj", "{73249CE8-2E88-407F-8BB5-B15006D28F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BACAE6-60D6-422E-8ABA-BF48767D0AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BACAE6-60D6-422E-8ABA-BF48767D0AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BACAE6-60D6-422E-8ABA-BF48767D0AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BACAE6-60D6-422E-8ABA-BF48767D0AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73249CE8-2E88-407F-8BB5-B15006D28F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73249CE8-2E88-407F-8BB5-B15006D28F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73249CE8-2E88-407F-8BB5-B15006D28F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73249CE8-2E88-407F-8BB5-B15006D28F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

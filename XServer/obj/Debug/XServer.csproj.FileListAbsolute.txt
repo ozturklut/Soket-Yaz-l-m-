@@ -1,0 +1,2 @@
+C:\Users\lutfu\Desktop\C# vize\Prosesler\fork()\XServer\XServer\bin\Debug\XServer.exe.config
+C:\Users\lutfu\Desktop\C# vize\Prosesler\fork()\XServer\XServer\obj\Debug\XServer.csprojResolveAssemblyReference.cache
